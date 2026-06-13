@@ -47,5 +47,5 @@ Rather than a "black-box" library call, the system determines the parameters $m$
 
 4. **Launch the User Interface:**
    ```powershell
-   python -m streamlit run predict_app.py
+   python -m streamlit run predictor_app.py
    ```
